@@ -1,9 +1,8 @@
-name: Deploy to GitHub Pages
+name: Jekyll site CI
 
 on:
   push:
-    branches: [ main ]  # or whatever your default branch is
-
+    branches: ["main"]
 permissions:
   contents: read
   pages: write
@@ -14,15 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-ruby@v1
         with:
-          node-version: 20
-      - run: npm ci
-      - run: npm run build
+          ruby-version: '3.1'
+      - run: bundle install
+      - run: bundle exec jekyll build --baseurl "${{ github.event.repository.name }}"
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist   # change this to your build output folder
+          path: ./_site
 
   deploy:
     needs: build
