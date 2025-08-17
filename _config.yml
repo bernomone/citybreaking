@@ -20,8 +20,8 @@ description: Data analyses and reflections on overtourism
 # root of your server.
 baseurl: "/citybreaking" # the subpath of your site, e.g. /blog/
 url: "https://bernomone.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "assets/header_image.jpg"
+logo: "assets/logo.png"
 
 # Build settings
 markdown: kramdown
