@@ -6,3 +6,4 @@ node_modules/
 .jekyll-metadata
 .bundle
 .DS_Store
+CLAUDE.md
