@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Data Gathering
-permalink: /data_gathering/
-main_nav: true
+layout: post
+title: "Data Gathering and Florence Trends"
+date: 2025-09-08
+author: "Bernardo&Martina"
+tags: [data-analysis, airbnb, florence, tourism]
+categories: [analysis]
 ---
 
 # La Raccolta Dati
@@ -38,13 +40,13 @@ Aggiungiamo un altro bias personale: scegliamo Firenze come primo caso di studio
 
 Possiamo quindi osservare le strutture su Airbnb a partire dal primo trimestre 2024. Se assumiamo che una struttura sia "nuova" nel mese in cui ha la sua prima recensione, possiamo contare il numero di nuove strutture nel tempo:
 
-![image](assets/Florence_new_listings_per_month.png)
+![image]({{ '/assets/Florence_new_listings_per_month.png' | relative_url }})
 
 Come dicevamo, i dati delle recensioni contengono tutto lo storico e quindi troviamo facilmente strutture recensite per la prima volta nel 2010. Con un trend decisamente in crescita nel tempo.
 
 Possiamo inoltre vedere dove sono localizzati negli anni i "nuovi" Airbnb all'interno dell'area di Firenze:
 
-<iframe src='assets/listing_first_review.html' width='100%'></iframe> 
+<iframe src='{{ "/assets/listing_first_review.html" | relative_url }}' width='100%' height='600px' frameborder='0'></iframe> 
 
 Si vede chiaramente che inizialmente gli Airbnb si concentrano in quello che è il centro storico, che è anche l'area a più alta densità turistica nella città. Negli ultimi anni invece, si vede una proliferazione esterna al centro che ingloba praticamente tutta l'area del comune.
 
@@ -61,6 +63,11 @@ L'idea a questo punto è quella di continuare a collezionare dati e infoltire il
 - Le [misure del comune](https://www.comune.firenze.it/novita/comunicati/locazioni-turistiche-brevi-fissate-dalla-giunta-superfici-minime-autorizzazioni) per regolamentare il mercato  
 - La debolezza della domanda turistica interna [CITAZIO]()
 
+---
+
+*English version below / Versione inglese qui sotto*
+
+---
 
 # Data Collection
 
@@ -95,13 +102,13 @@ Let’s add another personal bias: we chose Florence as our first case study. Th
 
 We can therefore observe the Airbnb properties starting from the first quarter of 2024. If we assume that a property is “new” in the month when it gets its first review, we can count the number of new properties over time:
 
-![image](assets/Florence_new_listings_per_month.png)
+![image]({{ '/assets/Florence_new_listings_per_month.png' | relative_url }})
 
 As mentioned, the review data contain the full history, so we can easily find properties reviewed for the first time as far back as 2010. The trend is clearly growing over time.
 
 We can also see where “new” Airbnbs are located over the years within the Florence area:
 
-<iframe src='assets/listing_first_review.html' width='100%'></iframe> 
+<iframe src='{{ "/assets/listing_first_review.html" | relative_url }}' width='100%' height='600px' frameborder='0'></iframe> 
 
 It’s clear that initially Airbnbs were concentrated in the historic center, which is also the area with the highest tourist density in the city. In recent years, however, we see a proliferation outside the center, covering practically the whole municipality.
 
