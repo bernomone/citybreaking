@@ -7,3 +7,4 @@ node_modules/
 .bundle
 .DS_Store
 CLAUDE.md
+.vscode/
