@@ -3,8 +3,8 @@ layout: post
 title: "Come e dove crescono gli Airbnb a Firenze?"
 date: 2025-09-18
 author: "Bernardo & Martina"
-tags: [florence]
-categories: [analysis, italiano]
+tags: [italia, florence, time-trend]
+categories: [italiano]
 excerpt: Guardiamo ai dati Airbnb su Firenze, nel tempo e per area. Prima parte, un'analisi per iniziare.
 ---
 
@@ -13,13 +13,24 @@ Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), 
 La domanda di base è: a Firenze sono cresciuti gli Airbnb? E se si, dove? 
 Cercheremo di rispondere usando i dati dell'ottima piattaforma [Inside Airbnb](https://insideAirbnb.com/about/).
 
+# Che dati abbiamo e come interpretarli
+
 Gli snapshot di dati sono trimestrali, quindi non forniscono granularità temporale molto elevata: di ogni struttura si può osservare la presenza/assenza ogni 3 mesi ma non si ha la sua data di creazione sulla piattaforma. Abbiamo però le data delle prime recensioni, che useremo come proxy della data di creazione per osservare andamenti nel tempo.
 
 Chiaramente, e questo è il grosso caveat, è del tutto possibile (anche se improbabile) che una struttura in attività abbia ricevuto 0 recensioni così come che tra la data di creazione e quella della prima recensione sia passato molto tempo. Assumiamo che una struttura sia "nuova" al momento in cui riceve la sua prima recensione.
 
 I dati sono disponibili dal primo trimestre del 2024, ma le recensioni partono dal 2010 - Airbnb è nata nel 2007, ci avrà messo qualche anno ad arrivare in Italia. Usare la data della prima recensione per tutte le strutture esistenti dal 2024 significa non avere dati su tutte le strutture che prima del 2024 sono "morte" ovvero sono state eliminate dalla piattaforma Airbnb.
 
+# Qualche numero per iniziare
+
+In totale, considerando tutti gli snapshot temporali assieme, vediamo 16769 strutture uniche, di cui 14521 con almeno una recensione, quindi circa 2200 strutture non hanno alcuna recensione. Visto che Airbnb spinge gli utenti a lasciare commenti e rating e che questa feature è una componente essenziale della piattaforma, è piuttosto singolare che una struttura ne abbia 0, ma ci sono possibili ragioni:
+* è molto recente (non è stata ancora usata o è stata usata da poca gente)
+* la struttura viene prenotata attraverso agenzia (che poi non si cura di lasciare recensioni)
+* si tratta di (probabile) nero: la struttura usa Airbnb solo come piattaforma per attrarre possibili utenti ma la transazione viene fatta al di fuori della piattaforma
+
 # Gli Airbnb a Firenze crescono nel tempo
+
+--- sto qui 
 
 ![Andamento temporale dei listing fiorentini su Airbnb, si vede una marcata accelerazione dal 2022. Ricordiamo che stiamo osservando solo le strutture che nel 2024 erano in esistenza.]({{ '/assets/Florence_new_listings_per_month.png' | relative_url }})
 
