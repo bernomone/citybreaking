@@ -8,7 +8,7 @@ categories: [italiano]
 excerpt: Guardiamo ai dati Airbnb su Firenze, nel tempo e per area. Prima parte, un'analisi per iniziare.
 ---
 
-Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), questo è un blog dedicato ad analisi sul fenomeno dell'overtourism in senso generale, partendo dalla città di Firenze di cui ci occupiamo in questo post.
+Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), questo è un blog dedicato ad analisi sul fenomeno dell'ipertourismo in senso generale, partendo dalla città di Firenze di cui ci occupiamo in questo post.
 
 La domanda di base è: a Firenze sono cresciuti gli Airbnb? E se si, dove? 
 Cercheremo di rispondere usando i dati dell'ottima piattaforma [Inside Airbnb](https://insideAirbnb.com/about/).
@@ -38,22 +38,16 @@ Dalla figura si vede una chiara crescita temporale, particolarmente marcata dal 
 
 # Si, ma dove?
 
-Per ogni struttura abbiamo la sua geolocalizzazione precisa. Andiamo quindi a vedere quali aree sono più coperte in formato *heatmap*. Nella visualizzazione interattiva qui sotto, potete selezionare l'anno e zoomare su un'area specifica ma anche far andare il tempo dall'inizio schiacciando il tasto Play. Il colore indica la percentuale di strutture Airbnb nell'area (come percentuale di tutte le strutture Airbnb disponibili).
+Per ogni struttura abbiamo la sua geolocalizzazione precisa. Andiamo quindi a vedere quali aree sono più coperte in formato *heatmap*. Nella visualizzazione interattiva qui sotto, potete selezionare l'anno e zoomare su un'area specifica ma anche far andare il tempo dall'inizio schiacciando il tasto Play. Il colore indica la percentuale di strutture Airbnb, tra quelle disponibili in quel momento, si trova nell'area esagonale.
 
 <iframe src='{{ "/assets/listing_first_review.html" | relative_url }}' width='100%' height='600px' frameborder='0' alt=""></iframe> 
 
 Si vede chiaramente che inizialmente i pochi Airbnb si trovano quasi esclusivamente al centro storico, e pian piano cominciano a dipanarsi oltre finché negli ultimi anni inglobano praticamente tutta l'area del comune.
 
-Non possiamo concludere che il fenomeno Airbnb stia interessando la periferia solo recentemente perché i dati che abbiamo soffrono di [**Bias del Sopravvissuto**](https://it.wikipedia.org/wiki/Survivorship_bias). Dato che osserviamo le strutture solo dal 2024, non abbiamo informazioni su quelle che erano effettivamente presenti in precedenza e che prima del 2024 sono sparite da Airbnb. Ma ci facciamo un'idea sulle strutture longeve. È probabilmente un'ovvietà che strutture a scopo turistico abbiano una preferenza per il centro storico.
-
---- arrivata qui
-
+Non possiamo però concludere che il fenomeno Airbnb stia interessando la periferia solo recentemente perché i dati che abbiamo soffrono di [**Bias del Sopravvissuto**](https://it.wikipedia.org/wiki/Survivorship_bias). Dato che osserviamo le strutture solo dal 2024, non abbiamo informazioni su quelle che erano effettivamente presenti in precedenza e che prima del 2024 sono sparite da Airbnb. 
 In poche parole, stiamo osservando un misto di strutture recenti e strutture molto vecchie, ma di queste ultime vediamo solo quelle che sono riuscite a non chiudere nel tempo e che verosimilmente si trovano nell'area più interessata dal turismo. Perciò è plausibile che nel 2010 altre strutture fuori dal centro di Firenze abbiano avuto la loro prima recensione, ma vista le diverse dinamiche del turismo all'epoca e la diversa conformazione urbana, non siano presenti nei dati del 2024, che è il primo anno che possiamo osservare nei nostri snapshot.
+Ma ci facciamo un'idea sulle strutture longeve. 
 
 # Prossimi passi
 
-L'idea a questo punto è quella di continuare a collezionare dati e infoltire il nostro storico sperando di osservare andamenti interessanti. Vari fenomeni a livello locale e globale possono avere un impatto sul mercato degli affitti brevi:
-
-- Il dollaro debole e l'incertezza internazionale che riduce il turismo estero  
-- Le [misure del comune](https://www.comune.firenze.it/novita/comunicati/locazioni-turistiche-brevi-fissate-dalla-giunta-superfici-minime-autorizzazioni) per regolamentare il mercato  
-- La debolezza della domanda turistica interna [CITAZIO]()
+Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, si la nuova normativa comunale (di giugno 2025), che ha bandito Airbnb al centro, stia avendo un effetto l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
