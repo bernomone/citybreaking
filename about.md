@@ -9,7 +9,7 @@ _This blog will be both in Italian and in English. The English version of this p
 
 # Il perché di questo blog 
 
-Questo sito raccoglie i nostri tentativi di capire quantitativamente il fenomeno del cosiddetto "overtourism", con un interesse specifico per quello di città. Chi vive in una qualsiasi città "turistica" (lo sono tutte o quasi) sa bene: 
+Questo sito raccoglie i nostri tentativi di capire quantitativamente il fenomeno del cosiddetto iperturismo (noto spesso più comunemente con l'inglese "overtourism"), con un interesse specifico per quello di città. Chi vive in una qualsiasi città "turistica" (lo sono tutte o quasi) sa bene: 
 * che i prezzi degli affitti salgono non in linea con gli stipendi, a causa (anche) del fatto che molte abitazioni sono Airbnb (e affini), il che diminuisce l'offerta
 * che i trasporti locali sotto continuamente sotto stress per la troppa gente
 * che piazze e centri storici sono in buona parte in [mangifici](https://corrierefiorentino.corriere.it/notizie/cronaca/23_luglio_08/firenze-un-bar-o-ristorante-ogni-31-abitanti-cosi-il-mangificio-in-centro-cd3465ad-8cda-4245-a465-ea7b6b223xlk.shtml)
