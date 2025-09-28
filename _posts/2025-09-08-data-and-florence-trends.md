@@ -30,8 +30,6 @@ In totale, considerando tutti gli snapshot temporali assieme, vediamo 16769 stru
 
 # Gli Airbnb a Firenze crescono nel tempo
 
---- sto qui 
-
 ![Andamento temporale dei listing fiorentini su Airbnb, si vede una marcata accelerazione dal 2022. Ricordiamo che stiamo osservando solo le strutture che nel 2024 erano in esistenza.]({{ '/assets/Florence_new_listings_per_month.png' | relative_url }})
 
 Dalla figura si vede una chiara crescita temporale, particolarmente marcata dal 2022, l'immediato post-COVID.
@@ -50,4 +48,4 @@ Ma ci facciamo un'idea sulle strutture longeve.
 
 # Prossimi passi
 
-Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, si la nuova normativa comunale (di giugno 2025), che ha bandito Airbnb al centro, stia avendo un effetto l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
+Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, se la nuova normativa comunale (di giugno 2025), che ha bandito Airbnb al centro, stia avendo l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
