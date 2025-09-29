@@ -8,7 +8,7 @@ categories: [italiano]
 excerpt: Guardiamo ai dati Airbnb su Firenze, nel tempo e per area. Prima parte, un'analisi per iniziare.
 ---
 
-Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), questo è un blog dedicato ad analisi sul fenomeno dell'ipertourismo in senso generale, partendo dalla città di Firenze di cui ci occupiamo in questo post.
+Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), questo è un blog dedicato ad analisi sul fenomeno dell'iperturismo in senso generale, partendo dalla città di Firenze di cui ci occupiamo in questo post.
 
 La domanda di base è: a Firenze sono cresciuti gli Airbnb? E se si, dove? 
 Cercheremo di rispondere usando i dati dell'ottima piattaforma [Inside Airbnb](https://insideAirbnb.com/about/).
