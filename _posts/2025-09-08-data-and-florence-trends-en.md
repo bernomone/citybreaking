@@ -10,7 +10,7 @@ excerpt: We look at Airbnb data on Florence, over time and by area. First part, 
 
 As we write in the ["About"](https://bernomone.github.io/citybreaking/about/), this is a blog dedicated to analyzing the phenomenon of overtourism in general, starting with the city of Florence, which we cover in this post.
 
-The basic question is: have Airbnbs grown in Florence? And if so, where?
+Our basic question is: have Airbnbs grown in Florence? And if so, where?
 We'll try to answer using data from the excellent [Inside Airbnb](https://insideAirbnb.com/about/) platform.
 
 # What data we have and how to interpret it
