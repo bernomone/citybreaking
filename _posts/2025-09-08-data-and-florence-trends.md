@@ -48,4 +48,4 @@ Ma ci facciamo un'idea sulle strutture longeve.
 
 # Prossimi passi
 
-Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, se la nuova normativa comunale (di giugno 2025), che ha bandito Airbnb al centro, stia avendo l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
+Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, se la nuova normativa comunale (di giugno 2025), che ha proibito l'apertura di nuovi Airbnb in centro, stia avendo l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
