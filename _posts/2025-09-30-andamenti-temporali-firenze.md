@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Come e dove crescono gli Airbnb a Firenze?"
-date: 2025-09-18
+date: 2025-09-30
 author: "Bernardo & Martina"
 tags: [italia, florence, time-trend]
 categories: [italiano]
