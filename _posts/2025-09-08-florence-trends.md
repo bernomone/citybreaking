@@ -32,7 +32,7 @@ In total, considering all snapshots together, we see 16,769 unique properties, o
 
 ![Temporal trend of Florentine listings on Airbnb, showing a marked acceleration from 2022. Remember that we're only observing properties that were in existence in 2024.]({{ '/assets/Florence_new_listings_per_month.png' | relative_url }})
 
-The figure shows clear temporal growth, particularly marked from 2022, the immediate post-COVID period.
+The figure shows clear temporal growth, particularly pronounced from 2022, the immediate post-COVID period.
 
 # Yes, but where?
 
@@ -42,7 +42,7 @@ For each property we have its precise geolocation. So let's see which areas are 
 
 You can clearly see that initially the few Airbnbs are found almost exclusively in the historic center ("Centro storico"), and gradually begin to spread beyond until in recent years they encompass practically the entire municipal area.
 
-However, we cannot conclude that the Airbnb phenomenon is only recently affecting the outskirts of the centre because the data we have suffers from [**Survivorship Bias**](https://en.wikipedia.org/wiki/Survivorship_bias). Since we only observe properties from 2024, we have no information on listings that were present previously and disappeared from Airbnb before 2024.
+However, we cannot conclude that the Airbnb phenomenon is only recently affecting the outskirts of the centre because the data we have suffers from [**Survivorship Bias**](https://en.wikipedia.org/wiki/Survivorship_bias). Since we only observe properties from 2024, we have no information about listings that were present previously and disappeared from Airbnb before 2024.
 In short, we're observing a mix of recent properties and very old properties, but of the latter we only see those that managed to survive in time and that presumably are located in the area most affected by tourism. Therefore, it's plausible that in 2010 other properties outside Florence's center had their first review, but given the different tourism dynamics at the time and the different urban configuration, they are not present in the 2024 data, which is the first year we can observe in our snapshots.
 But we nevertheless can get an idea about long-lasting properties.
 
