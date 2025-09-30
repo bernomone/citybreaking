@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Come e dove crescono gli Airbnb a Firenze?"
-date: 2025-09-18
+date: 2025-09-30
 author: "Bernardo & Martina"
 tags: [italia, florence, time-trend]
 categories: [italiano]
 excerpt: Guardiamo ai dati Airbnb su Firenze, nel tempo e per area. Prima parte, un'analisi per iniziare.
 ---
 
-Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), questo è un blog dedicato ad analisi sul fenomeno dell'ipertourismo in senso generale, partendo dalla città di Firenze di cui ci occupiamo in questo post.
+Come scriviamo nell'["About"](https://bernomone.github.io/citybreaking/about/), questo è un blog dedicato ad analisi sul fenomeno dell'iperturismo in senso generale, partendo dalla città di Firenze di cui ci occupiamo in questo post.
 
 La domanda di base è: a Firenze sono cresciuti gli Airbnb? E se si, dove? 
 Cercheremo di rispondere usando i dati dell'ottima piattaforma [Inside Airbnb](https://insideAirbnb.com/about/).
@@ -48,4 +48,4 @@ Ma ci facciamo un'idea sulle strutture longeve.
 
 # Prossimi passi
 
-Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, se la nuova normativa comunale (di giugno 2025), che ha bandito Airbnb al centro, stia avendo l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
+Questo era solo un assaggio! Per Firenze, vogliamo principalmente capire, e potrebbe essere ancora prestino, se la nuova normativa comunale (di giugno 2025), che ha proibito l'apertura di nuovi Airbnb in centro, stia avendo l'effetto sperato o se non faccia altro che spostare il problema fuori dal centro storico. Guarderemo poi ad altre città, proveremo a fare confronti e a indagare particolarità.
