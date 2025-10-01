@@ -36,7 +36,7 @@ Dalla figura si vede una chiara crescita temporale, particolarmente marcata dal 
 
 # Si, ma dove?
 
-Per ogni struttura abbiamo la sua geolocalizzazione precisa. Andiamo quindi a vedere quali aree sono più coperte in formato *heatmap*. Nella visualizzazione interattiva qui sotto, potete selezionare l'anno e zoomare su un'area specifica ma anche far andare il tempo dall'inizio schiacciando il tasto Play. Il colore indica la percentuale di strutture Airbnb, tra quelle disponibili in quel momento, si trova nell'area esagonale.
+Per ogni struttura abbiamo la sua geolocalizzazione precisa. Andiamo quindi a vedere quali aree sono più coperte in formato *heatmap*. Nella visualizzazione interattiva qui sotto, potete selezionare l'anno e zoomare su un'area specifica ma anche far andare il tempo dall'inizio schiacciando il tasto Play. Il colore indica il numero di strutture Airbnb, tra quelle disponibili in quel momento, si trova nell'area esagonale.
 
 <iframe src='{{ "/assets/listing_first_review.html" | relative_url }}' width='100%' height='600px' frameborder='0' alt=""></iframe> 
 

@@ -36,7 +36,7 @@ The figure shows clear temporal growth, particularly pronounced from 2022, the i
 
 # Yes, but where?
 
-For each property we have its precise geolocation. So let's see which areas are most covered in heatmap format. In the interactive visualization below, you can select the year and zoom in on a specific area, but also let time run from the beginning by pressing the Play button. The color indicates the percentage of Airbnb properties, among those available at that time, found in the hexagonal area.
+For each property we have its precise geolocation. So let's see which areas are most covered in heatmap format. In the interactive visualization below, you can select the year and zoom in on a specific area, but also let time run from the beginning by pressing the Play button. The color indicates the number of Airbnb properties, among those available at that time, found in the hexagonal area.
 
 <iframe src='{{ "/assets/listing_first_review.html" | relative_url }}' width='100%' height='600px' frameborder='0' alt=""></iframe>
 
