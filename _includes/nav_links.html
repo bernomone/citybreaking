@@ -3,3 +3,9 @@
 	<li class="nav-link"><a href="{{ page.url | relative_url }}">{{ page.title }}</a>
 	{% endif %}
 {% endfor %}
+
+<!-- Add category links -->
+{% for category in site.categories %}
+	{% assign cat_name = category[0] %}
+	<li class="nav-link"><a href="{{ '/category/' | append: cat_name | append: '/' | relative_url }}">{{ cat_name | capitalize }}</a></li>
+{% endfor %}
