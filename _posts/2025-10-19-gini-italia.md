@@ -41,7 +41,37 @@ Ci aspettiamo che ovunque esistano agenzie che o gestiscono Airbnb per conto di 
 | Firenze | 13043  | 1.9% |
 | Milano  | 22540  | 2.1% |
 
-Come vediamo ...
+In tabella, il numero di proprietà in affitto su Airbnb per ogni città assieme alla percentuale che l'ospite più grosso ha in quella città. Si vede che ci sono belle differenze in termini di numero di alloggi ma sono comunque varie migliaia in ogni città, e le percentuali sono parecchio diverse, Bologna ha quasi il 4% degli alloggi in mano allo stesso ospite, Roma solo lo 0.7%. Vediamo chi sono questi ospiti.
 
-> TODO e qui commento la tabella e vado poi a pigliare questi host max in ogni città per vedere chi sono
-> poi faccio vedere il graficone delle distribuzioni per ogni città, commento e chiudo
+# Chi sono gli ospiti maggiori
+
+Sono tutte agenzie (cioè non singoli proprietari), il che non sorprende.
+
+* Bologna: ["Wonderful Italy Emilia-Romagna"](https://www.airbnb.co.uk/users/show/487811050), che si autodescrive come il gruppo di case vacanza più grosso in Italia, con un portfolio di 2400 case in diversi parti del territorio nazionale - a Bologna ne hanno 182. 
+* Palermo: lo stesso gruppo nella sua branca regionale, ["Wonderful Italy Sicily"](https://www.airbnb.co.uk/users/show/487814742) - a Palermo ha 216 alloggi.
+* Lecce: ["Barbarhouse SRL"](https://www.airbnb.co.uk/users/show/9632167), ancora un'agenzia che ha lì 49 alloggi (Lecce è la città con meno alloggi di tutte, tra quelle che abbiamo, un numero nettamente minore delle altre)
+* Milano: [Italianway](https://www.airbnb.com/users/show/27693585), che dichiara di operare su diverse parti d'Italia, a Milano ha ben 480 alloggi
+* Firenze: [MMega Homes And Villas](https://www.airbnb.co.uk/users/show/23904874), che lì ha 242 alloggi e pure dichiara di operare su diverse destinazioni
+* Venezia: [Veniceapartment-com](https://www.airbnb.com/users/show/2634978), ha lì 142 alloggi e opera solo su Venezia
+* Napoli: [Dimorra](https://www.airbnb.co.uk/users/show/128841116), con 137 alloggi lì
+* Roma: [IFlat](https://www.airbnb.co.uk/users/show/23532561), con 244 alloggi lì
+
+In un post successivo proveremo a guardare alla distribuzione territoriale dei gruppi più grossi. Un'altra cosa da provare a vedere è come cambiano le cose se separiamo i proprietari individuali dalle agenzie.
+
+# Le distribuzioni di alloggi per host più da vicino
+
+Se raggruppiamo il numero di alloggi nelle categorie:
+
+* 1 solo
+* 2 o 3
+* tra 4 e 10
+* tra 10 e 100
+* più di 100
+
+e andiamo a contare il numero di ospiti che hanno questi numeri di alloggi, sempre per città, otteniamo i risultati qui in figura:
+
+![Percentage of hosts with given numbers (bucketed) of Airbnb listings. ]({{ '/assets/hosts_listings_buckets.png' | relative_url }})
+
+Le distribuzioni non cambiano in maniera drammatica, ma vediamo che che Milano è la città con la maggiore percentuale di proprietari di singolo immobile (quasi il 79%, che con tutta probabilità saranno degli individui e non gruppi) e che solo Lecce (come visto di sopra infatti) non ha alcun proprietario con più di 100 immobili.
+
+Continueremo questo tipo di analisi in post successivi, alla prossima!
