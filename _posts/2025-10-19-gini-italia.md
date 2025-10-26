@@ -16,7 +16,7 @@ In economia, l'[indice (o coefficiente) di Gini](https://it.wikipedia.org/wiki/C
 
 Noi vogliamo usare l'indice di Gini per misurare quanto è diseguale una città in termini di chi possiede quante proprietà Airbnb - più gli alloggi turistici sono concentrati in mano a pochi ospiti e più questo indicatore si avvicinerà a 1.
 
-Come prima usiamo i dati di [Inside Airbnb](https://insideairbnb.com/about/) che fa uno scraping regolare di Airbnb e consideriamo le 8 città italiane di cui lì abbiamo i dati da: Milano, Firenze, Roma, Bologna, Venezia, Lecce, Napoli, Palermo. I dati esistono anche per Bergamo ma l'abbiamo esclusa perché preferiamo usare capoluoghi di provincia e/o città che ci aspettiamo siano molto turistiche (e lo siano sempre state); da notare che mentre tutte le altre città sono fornite da Inside Airbnb come a se stanti, Palermo e Lecce si trovano nei file di (rispettivamente) "Sicilia" e "Puglia", regioni che evidentemente vengono tirate giù in toto nello scraping, probabilmente perché le loro città singole non hanno molti dati ed è preferibile accorparli. 
+Come prima usiamo i dati di [Inside Airbnb](https://insideairbnb.com/about/) che fa uno scraping regolare di Airbnb e consideriamo le 8 città italiane di cui lì abbiamo i dati da: Milano, Firenze, Roma, Bologna, Venezia, Lecce, Napoli, Palermo. I dati esistono anche per Bergamo ma l'abbiamo esclusa perché preferiamo usare capoluoghi di regione e/o città che ci aspettiamo siano molto turistiche (e lo siano sempre state); da notare che mentre tutte le altre città sono fornite da Inside Airbnb come a se stanti, Palermo e Lecce si trovano nei file di (rispettivamente) "Sicilia" e "Puglia", regioni che evidentemente vengono tirate giù in toto nello scraping, probabilmente perché le loro città singole non hanno molti dati ed è preferibile accorparli. 
 
 Useremo i dati dell'ultima mandata di scraping disponibile ad ora, che può avere una data leggermente diversa (di qualche giorno o mese) da città a città, ma non ci aspettiamo differenze sostanziali per la nostra analisi - i dati sono comunque tutti aggiornati all'estate 2025.
 
@@ -49,17 +49,17 @@ Sono tutte agenzie (cioè non singoli proprietari), il che non sorprende, visti 
 * Bologna: ["Wonderful Italy Emilia-Romagna"](https://www.airbnb.co.uk/users/show/487811050), che si autodescrive come il gruppo di case vacanza più grosso in Italia, con un portfolio di 2400 case in diversi parti del territorio nazionale - a Bologna ne hanno 182
 * Palermo: lo stesso gruppo nella sua branca regionale, ["Wonderful Italy Sicily"](https://www.airbnb.co.uk/users/show/487814742) - a Palermo ha 216 alloggi
 * Lecce: ["Barbarhouse SRL"](https://www.airbnb.co.uk/users/show/9632167), ancora un'agenzia che ha lì 49 alloggi (Lecce è la città con meno alloggi di tutte tra quelle che abbiamo, un numero nettamente minore delle altre)
-* Milano: [Italianway](https://www.airbnb.com/users/show/27693585), che dichiara di operare su diverse parti d'Italia, a Milano ha ben 480 alloggi
-* Firenze: [MMega Homes And Villas](https://www.airbnb.co.uk/users/show/23904874), che lì ha 242 alloggi e pure dichiara di operare su diverse destinazioni
-* Venezia: [Veniceapartment-com](https://www.airbnb.com/users/show/2634978), ha lì 142 alloggi e opera solo su Venezia
-* Napoli: [Dimorra](https://www.airbnb.co.uk/users/show/128841116), con 137 alloggi lì
-* Roma: [IFlat](https://www.airbnb.co.uk/users/show/23532561), con 244 alloggi lì
+* Milano: ["Italianway"](https://www.airbnb.com/users/show/27693585), che dichiara di operare su diverse parti d'Italia, a Milano ha ben 480 alloggi
+* Firenze: ["MMega Homes And Villas"](https://www.airbnb.co.uk/users/show/23904874), che lì ha 242 alloggi e pure dichiara di operare su diverse destinazioni
+* Venezia: ["Veniceapartment-com"](https://www.airbnb.com/users/show/2634978), ha lì 142 alloggi e opera solo su Venezia
+* Napoli: ["Dimorra"](https://www.airbnb.co.uk/users/show/128841116), con 137 alloggi lì
+* Roma: ["IFlat"](https://www.airbnb.co.uk/users/show/23532561), con 244 alloggi lì
 
 In un post successivo proveremo a guardare alla distribuzione territoriale dei gruppi più grossi. Un'altra cosa che proveremo poi a fare è misurare come cambiano le cose se separiamo i proprietari individuali dalle agenzie.
 
 # Le distribuzioni di alloggi per ospite più da vicino
 
-Se raggruppiamo il numero di alloggi nelle categorie:
+Se raggruppiamo il numero di alloggi per ospite nelle categorie:
 
 * 1 solo
 * 2 o 3
