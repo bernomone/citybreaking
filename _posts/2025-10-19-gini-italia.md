@@ -3,7 +3,7 @@ layout: post
 title: "Chi ha più Airbnb nelle città italiane?"
 date: 2025-10-19
 author: "Bernardo & Martina"
-tags: [Italia, inequality]
+tags: [italia, inequality]
 categories: [italiano]
 excerpt: Esploriamo la distribuzione di Airbnb per ospite per varie città
 ---

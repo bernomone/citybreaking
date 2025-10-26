@@ -3,7 +3,7 @@ layout: post
 title: "Who owns the most Airbnbs in Italian cities?"
 date: 2025-10-19
 author: "Bernardo & Martina"
-tags: [Italy, inequality]
+tags: [italy, inequality]
 categories: [english]
 excerpt: Exploring the distribution of Airbnb properties per host across various cities
 ---
