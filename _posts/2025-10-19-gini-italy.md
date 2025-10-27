@@ -16,6 +16,8 @@ In economics, the [Gini index (or coefficient)](https://en.wikipedia.org/wiki/Gi
 
 We want to use the Gini index to measure how unequal a city is in terms of who owns how many Airbnb properties - the more tourist accommodations are concentrated in the hands of a few hosts, the closer this indicator will approach 1.
 
+The data presented in this post, with counts of Airbnbs per each host, separated by city and named with the scraping run date, are available [here](https://github.com/bernomone/citybreaking/tree/main/data/airbnb-counts-per-host/).
+
 As before, we use data from [Inside Airbnb](https://insideairbnb.com/about/) which performs regular scraping of Airbnb and we consider the 8 Italian cities for which we have data: Milan, Florence, Rome, Bologna, Venice, Lecce, Naples, Palermo. Data also exists for Bergamo but we excluded it because we prefer to use regional capitals and/or cities that we expect to be very touristy (and have always been); note that while all other cities are provided by Inside Airbnb as standalone, Palermo and Lecce exist within the files of (respectively) "Sicily" and "Puglia", regions that are evidently pulled down in their entirety in the scraping, likely because their individual cities don't have much data and it's preferable to group them together.
 
 We'll use data from the latest scraping run available now, which may have a slightly different date (by a few days or months) from city to city, but we don't expect substantial differences for our analysis - all data is in any case updated to summer 2025.
