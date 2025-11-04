@@ -40,3 +40,6 @@ In the following table you can see how the percentage of listings that belong to
 Another interesting point of reflection comes from the total number of listings in the two periods: no significant variations are observed. The picture this seems to suggest is that, in the time frame from early 2024 to mid-2025, there have been no expansions or contractions of supply but only concentration towards large hosts.
 
 Rome is again the only city that is an exception: in the same period the total number of listings increased by about 600 units, and the percentage of listings in the hands of hosts with a single listing increased by 2 points. We don't have an explanation for this peculiarity at the moment, what do you think? See you next time!
+
+## Data
+The data used in this post, with the listing counts by host in each scraping run date can be found [here](https://github.com/bernomone/citybreaking/tree/main/data/airbnb-counts-per-host-time-series/).
