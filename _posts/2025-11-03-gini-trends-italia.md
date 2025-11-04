@@ -8,7 +8,7 @@ categories: [italiano]
 excerpt: Come è cambiato e come sta cambiando il mercato degli Airbnb
 ---
 
-Come abbiamo osservato in un [post precedente](https://bernomone.github.io/citybreaking/italiano/2025/10/19/gini-italia.html) la distribuzione degli appartamenti di Airbnb è concentrata nelle mani di pochi host che ne possiedono molti, almeno in tempi recenti.
+Come abbiamo osservato in un [post precedente](https://bernomone.github.io/citybreaking/italiano/2025/10/19/gini-italia.html) la distribuzione degli appartamenti di Airbnb in alcune delle maggiori città italiane è concentrata nelle mani di pochi host che ne possiedono molti, almeno in tempi recenti.
 Volendo approfondire la questione, ci siamo chiesti se questa situazione sia così da molto e come è cambiata nel tempo (per lo meno da quando riusciamo ad osservare grazie ai dati raccolti da [Inside Airbnb](https://insideairbnb.com/get-the-data/)).
 
 # L'indice di Gini nel tempo
