@@ -39,7 +39,7 @@ Nella tabella seguente si può vedere come la percentuale di proprietà che appa
 
 Un altro spunto di riflessione interessante viene dal numero totale di proprietà nei due periodi: non si osservano infatti variazioni significative. Il quadro che questo sembra suggerire è che, nell'arco di tempo che va da inizio 2024 alla metà del 2025, non ci siano state espansioni o contrazioni dell'offerta ma solo accentramento verso i grandi host.
 
-Roma è di nuovo l'unica città che fa eccezione: nello stesso periodo il numero totale delle proprietà è aumentato di circa 600 unità, e la percentuale di proprietà nelle mani di host con una sola proprietà è aumentata di 2 punti. Non abbiamo una spiegazione di questa particolarità al momento, voi che ne pensate? Alla prossima!
+Roma è di nuovo l'unica città che fa eccezione: nello stesso periodo il numero totale delle proprietà è aumentato di circa 6000 unità, e la percentuale di proprietà nelle mani di host con una sola proprietà è aumentata di 2 punti. Non abbiamo una spiegazione di questa particolarità al momento, voi che ne pensate? Alla prossima!
 
 ## Dati
 I dati presentati in questo post, con i conteggi di alloggi Airbnb per ogni host in ogni mandata di scraping sono presenti [qui](https://github.com/bernomone/citybreaking/tree/main/data/airbnb-counts-per-host-time-series/).
