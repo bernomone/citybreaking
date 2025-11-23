@@ -21,7 +21,8 @@ Un host può avere proprietà ovunque, in linea di principio. Se per ogni città
 Praticamente, i numeri illustrati mostrano la percentuale di host che è mutua tra due città, ovvero che esiste in entrambe. Per esempio, Milano ha 10691 host, Roma ne ha 20523; di questi, 127 esistono (hanno proprietà) in entrambe le città quindi la percentuale sul totale degli host tra di loro è 0.41%. 
 
 Osserviamo che è vero che i numeri sono molto piccoli, ma sono anche vari, cioè la forbice (dal minimo 0.03% di Napoli-Bologna al massimo 0.41% di Roma-Milano) è piuttosto ampia! Più host mutui significa molto probabilmente più penetrazione di grossi gruppi - se i 127 host mutui tra Roma e Milano aumentano nel tempo vedremo più proprietà in mano alle stesse entità. Ma per ora, appunto, sembra che generalmente i grossi gruppi non hanno una grande sovrapposizione con altri.
-Attenzione però: noi abbiamo solo i dati di queste 8 città, non tutto il paese (o il globo) - quindi possiamo vedere solo la sovrapposizione tra queste, ma è altamente possible che la faccenda sia più variegata localmente, per esempio è possibile che i grossi gruppi di Firenze siano anche quelli di, diciamo, Pisa o Livorno. Non abbiamo modo di verificarlo, ma a livello nazionale non c'è grossa sovrapposizione e il numero relativamente alto di Roma e Milano può essere dovuto alla natura delle due città, rispettivamente la capitale politica e quella economica del paese. Come per tutto il resto, espanderemo le indagini ad altri paesi.
+
+Attenzione però: noi abbiamo solo i dati di queste 8 città, non tutto il paese (o il globo) - quindi possiamo vedere solo la sovrapposizione tra queste, ma è altamente probabile che la faccenda sia più variegata localmente, per esempio è possibile che i grossi gruppi di Firenze siano anche quelli di, diciamo, Pisa o Livorno. Non abbiamo modo di verificarlo, ma a livello nazionale non c'è grossa sovrapposizione e il numero relativamente alto di Roma e Milano può essere dovuto alla natura delle due città, rispettivamente la capitale politica e quella economica del paese. Come per tutto il resto, espanderemo le indagini ad altri paesi.
 
 # Presenza in città e altrove
 
@@ -33,7 +34,7 @@ Ignorando gli host che hanno un solo listing, che ovviamente hanno il 100% delle
 * da 21 a 50 listing (host abbastanza grossi)
 * più di 50 listing (host maggiori)
 
-![Grafico a barre della % media di mercato che un host ha in ciascuna città, media fatta sulle categorie di listing totali specificate nel testo. Si vede che ovunque la % decresce col numero di listings totali.]({{ '/assets/avg_listing_share_by_total_listings_city.png' | relative_url }})
+![Grafico a barre della media della % di listing che un host ha in ciascuna città, media fatta sulle categorie di listing totali specificate nel testo. Si vede che ovunque la % decresce col numero di listings totali.]({{ '/assets/avg_listing_share_by_total_listings_city.png' | relative_url }})
 
 Ovviamente il binnaggio è arbitrario, ma il risultato non cambia se ne usiamo uno diverso: chi più ha tende anche a essere esteso oltre il territorio della città. 
 Per esempio, abbiamo casi estremi come quello di [E-Domizil Daniel](https://www.airbnb.co.uk/users/show/685495832) che ha un totale di più di 1000 listings in totale sparsi per il mondo, di cui una manciata a Bologna, Firenze, Roma e Venezia, e quindi uno share basso in ogni città (sotto l'1%), e ce ne sono diversi così.
