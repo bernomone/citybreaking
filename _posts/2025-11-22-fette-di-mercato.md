@@ -9,7 +9,7 @@ excerpt: Vediamo quanto sono grossi (globalmente) gli host più grossi
 ---
 
 Nel [post sulla quantità di proprietà per host in varie città italiane](https://bernomone.github.io/citybreaking/italiano/2025/10/19/gini-italia.html) abbiamo visto che ovunque esistono host che posseggono molti alloggi vacanza e che molto probabilmente sono agenzie. Qui ci chiediamo due cose:
-* che fetta di mercato hanno i grossi host di ogni città _in quella città_
+* quanto estesi sono i grossi host _in quella città_ rispetto alla totalità dei propri listing
 * che sovrapposizione c'è tra coppie di città in termini di host comuni
 
 Come prima consideriamo i dati di Milano, Roma, Napoli, Lecce, Palermo, Bologna, Venezia e Firenze - sono le città di cui [Inside Airbnb](https://insideairbnb.com/about/) fornisce dati e che sono abbastanza grandi e "turistiche" (Lecce e Palermo si trovano nei file delle rispettive regioni). Inside Airbnb fa uno scraping regolare dei dati da Airbnb e noi, come prima, usiamo quelli dell'ultima mandata disponibile - per diverse città è la stessa del precedente post ma per alcune abbiamo l'aggiornamento ma si tratta comunque di date dell'estate 2025.
@@ -23,11 +23,11 @@ Praticamente, i numeri illustrati mostrano la percentuale di host che è mutua t
 Osserviamo che è vero che i numeri sono molto piccoli, ma sono anche vari, cioè la forbice (dal minimo 0.03% di Napoli-Bologna al massimo 0.41% di Roma-Milano) è piuttosto ampia! Più host mutui significa molto probabilmente più penetrazione di grossi gruppi - se i 127 host mutui tra Roma e Milano aumentano nel tempo vedremo più proprietà in mano alle stesse entità. Ma per ora, appunto, sembra che generalmente i grossi gruppi non hanno una grande sovrapposizione con altri.
 Attenzione però: noi abbiamo solo i dati di queste 8 città, non tutto il paese (o il globo) - quindi possiamo vedere solo la sovrapposizione tra queste, ma è altamente possible che la faccenda sia più variegata localmente, per esempio è possibile che i grossi gruppi di Firenze siano anche quelli di, diciamo, Pisa o Livorno. Non abbiamo modo di verificarlo, ma a livello nazionale non c'è grossa sovrapposizione e il numero relativamente alto di Roma e Milano può essere dovuto alla natura delle due città, rispettivamente la capitale politica e quella economica del paese. Come per tutto il resto, espanderemo le indagini ad altri paesi.
 
-# Fette di mercato
+# Presenza in città e altrove
 
-Ma se guardiamo agli host singolarmente, che fetta di mercato (percentuale di proprietà) hanno quelli più grossi di ogni città in quella città? Abbiamo visto sopra che la sovrapposizione degli host tra città è generalmente scarsa, ma ci sono host grossi che sono anche molto diffusi sul territorio?
+Ma se guardiamo agli host singolarmente, che presenza hanno quelli più grossi di ogni città in quella città (come percentuale di proprietà sul totale di quelle che hanno)? Abbiamo visto sopra che la sovrapposizione degli host tra città è generalmente scarsa, ma ci sono host grossi che sono anche molto diffusi sul territorio?
 
-Ignorando gli host che hanno un solo listing, che ovviamente hanno una fetta di mercato del 100%, se calcoliamo per ogni città _separatamente_ la percentuale di listing che ciascun host ha in quella città notiamo che generalmente chi più ha è anche più diffuso, come ci si aspetterebbe. Per visualizzare questo risultato possiamo usare la media delle fette di mercato per ogni categoria di listings totali, usando le categorie:
+Ignorando gli host che hanno un solo listing, che ovviamente significa stare al 100%, se calcoliamo per ogni città _separatamente_ la percentuale di listing che ciascun host ha in quella città notiamo che generalmente chi più ha è anche più diffuso, come ci si aspetterebbe. Per visualizzare questo risultato possiamo usare la media delle percentuali di listing sulla città per categorie di listings totali:
 * da 2 a 10 listing (host ancora piccoli)
 * da 10 a 20 listing (host medi)
 * da 21 a 50 listing (host abbastanza grossi)
@@ -40,7 +40,7 @@ Per esempio, abbiamo casi estremi come quello di [E-Domizil Daniel](https://www.
 
 Vediamo la situazione per il maggiore host di ognuna città:
 
-| Città  | Host maggiore | Num. listings in città | Fetta di mercato in città |
+| Città  | Host maggiore | Num. listings in città | % dei propri listing nella città |
 | ------------- | ------------- | ------------- | 
 | Bologna  | [Wonderful italy Emilia-Romagna](https://www.airbnb.com/users/show/487811050	)  | 182 | 99% |
 | Firenze  | [MMega Homes And Villas](https://www.airbnb.co.uk/users/show/23904874)  | 242 | 60% |
