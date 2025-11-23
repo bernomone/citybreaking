@@ -27,7 +27,7 @@ Attenzione però: noi abbiamo solo i dati di queste 8 città, non tutto il paese
 
 Ma se guardiamo agli host singolarmente, che presenza hanno quelli più grossi di ogni città in quella città (come percentuale di proprietà sul totale di quelle che hanno)? Abbiamo visto sopra che la sovrapposizione degli host tra città è generalmente scarsa, ma ci sono host grossi che sono anche molto diffusi sul territorio?
 
-Ignorando gli host che hanno un solo listing, che ovviamente significa stare al 100%, se calcoliamo per ogni città _separatamente_ la percentuale di listing che ciascun host ha in quella città notiamo che generalmente chi più ha è anche più diffuso, come ci si aspetterebbe. Per visualizzare questo risultato possiamo usare la media delle percentuali di listing sulla città per categorie di listings totali:
+Ignorando gli host che hanno un solo listing, che ovviamente hanno il 100% delle loro proprietà in una sola città, se calcoliamo per ogni città _separatamente_ la percentuale di listing che ciascun host ha in quella città notiamo che generalmente chi più ha è anche più diffuso, come ci si aspetterebbe. Per visualizzare questo risultato possiamo usare la media delle percentuali di listing sulla città per categorie di listings totali:
 * da 2 a 10 listing (host ancora piccoli)
 * da 10 a 20 listing (host medi)
 * da 21 a 50 listing (host abbastanza grossi)
