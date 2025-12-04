@@ -51,7 +51,7 @@ Possiamo ipotizzare che questi host lavorassero già per la catena Mamo come ges
 
 Avendo le coordinate, possiamo mappare dove si trovano i listing nuovi emersi nello snapshot di Giugno 2025: 
 
-<iframe src='{{ "/assets/new_listings_map_20250601.html" | relative_url }}' width='100%' height='600px' frameborder='0' alt=""></iframe>
+<iframe src='{{ "/assets/new_listings_map_20250601.html" | relative_url }}' width='120%' height='800px' frameborder='0' alt=""></iframe>
 
 I punti rossi sulla mappa rappresentano i listing che abbiamo identificato come passaggi di proprietario, mentre quelli blu sono i listing completamente nuovi. Possiamo vedere a colpo d'occhio che i listing rossi non sono la maggioranza, seppur siano un 13% del totale. Questa percentuale varia se dividiamo gli host in base al numero di listing già posseduti:
 
