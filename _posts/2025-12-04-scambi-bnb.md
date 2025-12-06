@@ -44,7 +44,7 @@ La seguente tabella riporta i passaggi di proprietà individuati per Firenze nel
 | Maggio Boutique Apartment MBA Pitti Palace     | Beatrice             | MBA Maggio Boutique Apartment Pitti Palace     | Tommaso                      |
 | Spacious flat in the historic centre of Florence | Francesca            | Spacious flat in the historic centre of Florence | Gianrocco                    |
 
-Si può vedere come in molti casi il numero identificativo del listing non cambia, ma cambia solo il nome (leggermente) e il proprietario.
+Si può vedere come in molti casi il numero identificativo del listing non cambia, ma cambia solo il nome (leggermente) e l'host.
 Particolarmente interessante è il caso dei due listing "acquisiti" dall'account [Mamo](https://www.airbnb.it/rooms/33062988). Ci sono molti casi come quelli riportati in tabella nei dati: un host molto piccolo che possiede un listing dal nome che riporta "by Mamo Florence" cede il suo listing all'account Mamo.
 Possiamo ipotizzare che questi host lavorassero già per la catena Mamo come gestori, e che poi Mamo abbia deciso di accentrare i listing sotto l'account principale. 
 
