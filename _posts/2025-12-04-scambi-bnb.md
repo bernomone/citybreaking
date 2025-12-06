@@ -25,7 +25,7 @@ Come si può riconoscere se un listing apparso per la prima volta esisteva già 
 
 * Consideriamo solo listing che non appaiono come stanze singole (quindi solo case e appartamenti)
 * Le coordinate del listing nuovo sono esattamente le stesse di uno che ha precedentemente chiuso
-* Il numero di stanze e bagni del listing nuovo sono esattamente le stesse di quello chiuso che ha le sue stesse coordinate. Questo può aiutare a distigunere nuovi listing che sono apparsi per caso con le stesse coordinate di uno precedentemente chiuso.
+* Il numero di stanze e bagni del listing nuovo sono esattamente gli stessi di quello chiuso che ha le sue stesse coordinate. Questo può aiutare a distinguere nuovi listing che sono apparsi per caso con le stesse coordinate di uno precedentemente chiuso.
 
 Nonostante queste regole possano inevitabilmente condurre a degli errori, sia di falsi positivi (nuovi listing erroneamente identificati come passaggi di proprietà) che di falsi negativi (passaggi non individuati), dei controlli a campione ci hanno convinto che la strategia adottata è tutto sommato ragionevole.
 
@@ -41,7 +41,7 @@ La seguente tabella riporta i passaggi di proprietà individuati per Firenze nel
 | Giacomini Suites (Free Wifi)                     | Edoardo              | Appartamento con 2 bagni privati                 | Roberto                      |
 | A Romantic studio                                | Edo & Rita           | Sweet Florence close to Bargello 1               | Nikolozi                     |
 | Flat Dona- Santo Spirito neighbourhood           | Margherita           | Flat Dona- Santo Spirito neighbourhood           | Marco                        |
-| Maggio Boutique Apartment MBA Pitti Palace     | Beatrice             | MBA Maggio Boutique Apartment Pitti Palace     | Tommaso                      |
+| Maggio Boutique Apartment MBA Pitti Palace      | Beatrice             | MBA Maggio Boutique Apartment Pitti Palace      | Tommaso                      |
 | Spacious flat in the historic centre of Florence | Francesca            | Spacious flat in the historic centre of Florence | Gianrocco                    |
 
 Si può vedere come in molti casi il numero identificativo del listing non cambia, ma cambia solo il nome (leggermente) e l'host.
@@ -53,7 +53,7 @@ Avendo le coordinate, possiamo mappare dove si trovano i listing nuovi emersi ne
 
 <iframe src='{{ "/assets/new_listings_map_20250601.html" | relative_url }}' width='120%' height='800px' frameborder='0' alt=""></iframe>
 
-I punti rossi sulla mappa rappresentano i listing che abbiamo identificato come passaggi di proprietario, mentre quelli blu sono i listing completamente nuovi. Possiamo vedere a colpo d'occhio che i listing rossi non sono la maggioranza, seppur siano un 13% del totale. Questa percentuale varia se dividiamo gli host in base al numero di listing già posseduti:
+I punti rossi sulla mappa rappresentano i listing che abbiamo identificato come passaggi di proprietario, mentre quelli blu sono i listing completamente nuovi. Possiamo vedere a colpo d'occhio che i listing rossi non sono la maggioranza, sebbene siano un 13% del totale. Questa percentuale varia se dividiamo gli host in base al numero di listing già posseduti:
 
 - Solo 1 listing: 6.61%
 - Da 2 a 5 listing: 11.64%
