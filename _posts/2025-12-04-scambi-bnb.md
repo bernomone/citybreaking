@@ -13,23 +13,23 @@ La popolazione degli host su Airbnb si può grossolanamente dividere in categori
 L'accentramento del mercato avviene in molte delle città che abbiamo osservato in post precedenti, senza un sostanziale aumento del numero di listing. Questo può essere spiegato in due modi:
 
 1. Host più piccoli chiudono le loro attività essendo più deboli sul mercato e al contempo host più grandi si espandono creando nuovi listing. Le chiusure dei più piccoli e le aperture dei più grandi si bilanciano in numero.
-2. Host più piccoli vendono i loro listing a host più grandi, non facendo variare il numero complessivo di listing. La cessione di listing non è supportata nativamente da Airbnb e gli host devono ricorrere a delle [strategie](https://community.withairbnb.com/t5/Help-with-your-business/Selling-my-Airbnb/td-p/1967210#:~:text=Unfortunately%2C%20Airbnb%20does%20not%20allow,the%20property%20on%20your%20account.) per far sì che il nuovo proprietario mantenga le informazioni (e la reputazione) del listing a passaggio avvenuto.
+2. Host più piccoli cedono i loro listing a host più grandi, non facendo variare il numero complessivo di listing. La cessione di listing non è supportata nativamente da Airbnb e gli host devono ricorrere a delle [strategie](https://community.withairbnb.com/t5/Help-with-your-business/Selling-my-Airbnb/td-p/1967210#:~:text=Unfortunately%2C%20Airbnb%20does%20not%20allow,the%20property%20on%20your%20account.) per far sì che il nuovo proprietario mantenga le informazioni (e la reputazione) del listing a passaggio avvenuto.
 
 Questi due fenomeni non sono esclusivi e, in questo post, proveremo a capire come individuare quando un nuovo listing appartiene a una di queste due categorie.
 
 ## Individuare Passaggi di Listing
 
-Individuare un nuovo listing apparso sul mercato è relativamente semplice: basta considerare tutti i listing che sono apparsi per la prima volta in uno snapshot di dati e non erano in quelli precedenti. 
+Individuare un nuovo listing apparso sul mercato è relativamente semplice. [Inside Airbnb](https://insideairbnb.com/get-the-data/) rilascia i dati su un insieme di città in vari snapshot a intervalli temporali di circa 3 mesi. Per individuare un nuovo listing è sufficiente considerare tutti i listing che sono apparsi per la prima volta in uno snapshot di dati e che non erano in quelli precedenti. 
 
 Come si può riconoscere se un listing apparso per la prima volta esisteva già ed era precedentemente nelle mani di un altro host? Non esiste un modo semplice, noi abbiamo definito le seguenti regole:
 
-* Consideriamo solo interi appartamenti
+* Consideriamo solo listing che non appaiono come stanze singole (quindi solo case e appartamenti)
 * Le coordinate del listing nuovo sono esattamente le stesse di uno che ha precedentemente chiuso
-* Il numero di stanze e bagni del listing nuovo sono esattamente le stesse di quello chiuso che ha le sue stesse coordinate
+* Il numero di stanze e bagni del listing nuovo sono esattamente le stesse di quello chiuso che ha le sue stesse coordinate. Questo può aiutare a distigunere nuovi listing che sono apparsi per caso con le stesse coordinate di uno precedentemente chiuso.
 
-Nonostante queste regole possano inevitabilmente condurre a degli errori, sia di falsi positivi (nuovi listing erroneamente identificati come passaggi di proprietà) che di falsi negativi (passaggi non individuati), dei controlli a campione ci hanno convinto che la strategia adottata è tuttosommato ragionevole.
+Nonostante queste regole possano inevitabilmente condurre a degli errori, sia di falsi positivi (nuovi listing erroneamente identificati come passaggi di proprietà) che di falsi negativi (passaggi non individuati), dei controlli a campione ci hanno convinto che la strategia adottata è tutto sommato ragionevole.
 
-Le seguente tabella riporta i passaggi di proprietà individuati per Firenze nello snapshot di Giugno 2025.
+La seguente tabella riporta i passaggi di proprietà individuati per Firenze nello snapshot di Giugno 2025.
 
 | Previous Listing Name                            | Previous Host Name   | New Listing Name                                 | New Host Name                |
 |:-------------------------------------------------|:---------------------|:-------------------------------------------------|:-----------------------------|
