@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Compravendita di Bnb"
+title: "Scambi di Airbnb a Firenze"
 date: 2025-12-04
 author: "Bernardo & Martina"
-tags: [italia, buying and selling]
+tags: [italia, exchange]
 categories: [italiano]
-excerpt: Individuare scambi di Bnb tra host
+excerpt: Come individuare scambi di Bnb tra host
 ---
 
-La popolazione degli host su Airbnb si può grossolanamente dividere in categorie basate su quanti listing possiedono. Host molto "grandi", ossia con molti listing nel proprio account, sono presenti in [molte città contemporaneamente](https://bernomone.github.io/citybreaking/italiano/2025/11/22/presenza-in-loco.html) e stanno guadagnando [fette di mercato sempre maggiori](https://bernomone.github.io/citybreaking/italiano/2025/11/03/gini-trends-italia.html) (escludendo Roma).
+La popolazione degli host su Airbnb si può grossolanamente dividere in categorie basate su quanti listing possiedono. Host molto "grandi", ossia con molti listing nel proprio account, sono presenti in [molte città contemporaneamente](https://bernomone.github.io/citybreaking/italiano/2025/11/22/presenza-in-loco.html) e stanno guadagnando [fette di mercato sempre maggiori](https://bernomone.github.io/citybreaking/italiano/2025/11/03/gini-trends-italia.html) (eccetto Roma).
 
 L'accentramento del mercato avviene in molte delle città che abbiamo osservato in post precedenti, senza un sostanziale aumento del numero di listing. Questo può essere spiegato in due modi:
 
