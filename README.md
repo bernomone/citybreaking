@@ -2,7 +2,7 @@
 
 A github pages site with data analyses and reflections on overtourism, by me and [Martina Pugliese](https://github.com/martinapugliese)
 
-The blog can be acccess using this [link](https://bernomone.github.io/citybreaking/).
+The blog can be accessed using this [link](https://bernomone.github.io/citybreaking/).
 
 ## Acknowledgments 
 
