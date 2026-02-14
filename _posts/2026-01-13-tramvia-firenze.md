@@ -14,7 +14,7 @@ Non sono ovviamente mancate le opposizioni alla sua realizzazione: nel 2008 fu i
 
 Nonostante ciò, le linee di tram (o di "tramvia" come piace dire ai Fiorentini) sono state realizzate e lo sviluppo della rete è ancora oggi in corso.
 
-In una città come Firenze, attanagliata dal turismo, mi è capitato spesso di ascoltare persone che riferivano come l'apertura di una nuova linea di tram vicino casa loro correlasse con l'apertura di nuovi stutture ricettive destinate agli affitti brevi. L'associazione dei due fenomeni sembra senz'altro logica: la facilità con cui si raggiungono zone di interesse turistico con il tram è innegabile e questo potrebbe essere un buon incentivo per scegliere la vicinanza alle sue fermate come luogo ideale per avviare un'attività di ricezione turistica.
+In una città come Firenze, attanagliata dal turismo, mi è capitato spesso di ascoltare persone che riferivano come l'apertura di una nuova linea di tram vicino casa loro si correlasse con l'apertura di nuovi stutture ricettive destinate agli affitti brevi. L'associazione dei due fenomeni sembra senz'altro logica: la facilità con cui si raggiungono zone di interesse turistico con il tram è innegabile e questo potrebbe essere un buon incentivo per scegliere la vicinanza alle sue fermate come luogo ideale per avviare un'attività di ricezione turistica.
 
 Possiamo verificare questa ipotesi usando dei dati? Ci possiamo provare. Partiamo dal considerare due fonti di dati molto importanti:
 
