@@ -8,7 +8,7 @@ categories: [italiano]
 excerpt: Relazione tra la presenza di infrastrutture di trasporto pubblico e nuovi Airbnb
 ---
 
-L'Italia non è rinomata per l'efficienza dei suoi trasporti pubblici, urbani ed extraurbani, e in questo la città di Firenze in cui vivo non fa eccezione. Basti pensare che solo in tempi relativamente recenti, si sta ripristinando [un servizio](https://it.wikipedia.org/wiki/Rete_tranviaria_di_Firenze_(1879-1958)) che nel 1800 era esteso anche alle aree extraurban: il tram.
+La rinnovata attenzione alla sostenibilità dei trasporti ha fatto sì che a Firenze, in tempi relativamente recenti, si lavori al ripristino di [un servizio](https://it.wikipedia.org/wiki/Rete_tranviaria_di_Firenze_(1879-1958)) che nel 1800 era esteso anche alle aree extraurban: il tram.
 
 Non sono ovviamente mancate le opposizioni alla sua realizzazione: nel 2008 fu indetto un [referendum](https://www1.interno.gov.it/mininterno/export/sites/default/it/sezioni/sala_stampa/notizie/enti_locali/0835_2008_02_18_Referendum_tramvia_Firenze.html_40687498.html) per chiedere ai cittadini se fossero favorevoli o contrari alla realizzazione della prima linea di tram in centro e i NO vinsero. 
 
