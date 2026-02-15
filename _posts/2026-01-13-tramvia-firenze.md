@@ -56,7 +56,7 @@ vediamo che le fermate del tram arrivano in zone come molte attrazioni turistich
 
 Andiamo a vedere adesso in dettaglio come correlano le nostre quatità. Per ogni coppia calcoliamo il [Coefficiente di Correlazione di Spearman](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) (indicato con r nella figura) che indica se due quantità hanno una correlazione lineare o non lineare. Un coefficiente uguale a 0 o non statisticamente significativo indica che non è stata rilevata nessuna correlazione, mentre un coefficente esattamente uguale a 1(-1) indica una perfetta correlazione(anticorrelazione).
 
-<img src="{{ '/assets/post_tramway_hexagon_scatterplot_matrix.png' | relative_url }}" alt="Correlations" style="display: block; width: 120%; max-width: 1500px; margin: 0 auto;">
+<img src="{{ '/assets/post_tramway_hexagon_scatterplot_matrix.png' | relative_url }}" alt="Matrice di scatterplot che mostra le correlazioni di Spearman tra nuovi Airbnb, fermate del tram, popolazione e attrazioni turistiche a Firenze. Tutte le variabili mostrano correlazioni positive, con la correlazione più forte tra Airbnb e popolazione (r=0.74)." style="display: block; width: 120%; max-width: 1500px; margin: 0 auto;">
 
 Tutte le quantità sono correlate tra loro, in particolare:
 
