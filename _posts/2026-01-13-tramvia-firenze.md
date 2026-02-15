@@ -75,7 +75,7 @@ Per verificarlo possiamo usare la [Correlazioni Parziale](https://en.wikipedia.o
 |Correlazione di Spearman Parziale (Turismo) | 0.35 | 0.000|
 |Correlazione di Spearman Parziale (Popolazione+Turismo) | 0.23 | 0.000|
 
-Si trova che la correlazione "sopravvive" al controllo sulla popolazione, sulle attrazioni turistiche, e la loro combinazione anche se in forma attenuata. Sembra quindi che le intuizioni di alcuni cittadini, cioè che la "tramvia" stimoli l'apertura di nuovi Airbnb non sia del tutto infondata. 
+Si trova che la correlazione "sopravvive" al controllo sulla popolazione, sulle attrazioni turistiche, e alla loro combinazione anche se in forma attenuata. Sembra quindi che le intuizioni di alcuni cittadini, cioè che la "tramvia" stimoli l'apertura di nuovi Airbnb non sia del tutto infondata. 
 Ovviamente, sarebbero necessari altri controlli e un'analisi causale e di robustezza più accurata, ma lo lasciamo per altri post (forse).
 
 ## Dati
