@@ -50,7 +50,7 @@ Infine, guardando alle attrazioni turistiche:
 
 <iframe src='{{ "/assets/post_tramway_hexagon_map_tourism.html" | relative_url }}' width='100%' height='600px' frameborder='0' alt=""></iframe>
 
-vediamo che le fermate del tram arrivano in zone come molte attrazioni turistiche, ma non nella parte più centrale e a maggior concentrazione. Questo è uno degli effetti della vittoria del NO al referendum del 2008. Il progetto iniziale prevedeva che la rete passasse in vicino al Duomo della città, ma questo elemento fu rivisto dopo la sconfitta referendiaria.
+vediamo che le fermate del tram arrivano in zone come molte attrazioni turistiche, ma non nella parte più centrale e a maggior concentrazione. Questo è uno degli effetti della vittoria del NO al referendum del 2008. Il progetto iniziale prevedeva che la rete passasse vicino al Duomo della città, ma questo elemento fu rivisto dopo la sconfitta referendiaria.
 
 ## Correlazioni
 
