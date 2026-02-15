@@ -70,7 +70,7 @@ Per verificarlo possiamo usare la [Correlazioni Parziale](https://en.wikipedia.o
 
 | Correlazione | Valore | P-value |
 |:------------|:--------|:--------|
-|Correlazione di Spearman | 0.500 | 0.000|
+|Correlazione di Spearman | 0.50 | 0.000|
 |Correlazione di Spearman Parziale (Popolazione) | 0.30 | 0.000|
 |Correlazione di Spearman Parziale (Turismo) | 0.35 | 0.000|
 |Correlazione di Spearman Parziale (Popolazione+Turismo) | 0.23 | 0.000|
