@@ -3,7 +3,7 @@ layout: post
 title: "Tramvia e Affitti Brevi"
 date: 2026-01-13
 author: "Bernardo & Martina"
-tags: [italia, exchange]
+tags: [italia, tram, trasporti]
 categories: [italiano]
 excerpt: Relazione tra la presenza di infrastrutture di trasporto pubblico e nuovi Airbnb
 ---

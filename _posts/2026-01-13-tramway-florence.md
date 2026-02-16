@@ -3,7 +3,7 @@ layout: post
 title: "Tramway and Short-Term Rentals"
 date: 2026-01-13
 author: "Bernardo & Martina"
-tags: [italy, exchange]
+tags: [italy, tramway, transport]
 categories: [english]
 excerpt: Relationship between public transport infrastructure and new Airbnb listings
 ---
