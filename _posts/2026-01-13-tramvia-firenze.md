@@ -15,7 +15,7 @@ Nei primi anni 2000, il comune di Firenze decise di iniziare a ripristinare il s
 
 Nonostante ciò, due linee di tram (o di "tramvia" come piace dire ai Fiorentini) sono state realizzate e lo sviluppo della rete è ancora oggi [in corso](https://it.wikipedia.org/wiki/Rete_tranviaria_di_Firenze#Futuro), puntando a potenziare le due linee attuali e a costruirne altre tre.
 
-In una città come Firenze, attanagliata dal turismo, mi è capitato spesso di ascoltare persone che riferivano come l'apertura di una nuova linea di tram vicino casa loro si correlasse con l'apertura di nuovi strutture ricettive destinate agli affitti brevi. L'associazione dei due fenomeni sembra senz'altro logica: la facilità con cui si raggiungono zone di interesse turistico con il tram è innegabile e questo potrebbe essere un buon incentivo per scegliere la vicinanza alle sue fermate come luogo ideale per avviare un'attività di ricezione turistica.
+In una città turistica come Firenze, mi è capitato spesso di ascoltare persone che riferivano come l'apertura di una nuova linea di tram vicino casa loro si correlasse con l'apertura di nuovi strutture ricettive destinate agli affitti brevi. L'associazione dei due fenomeni sembra senz'altro logica: la facilità con cui si raggiungono zone di interesse turistico con il tram è innegabile e questo potrebbe essere un buon incentivo per scegliere la vicinanza alle sue fermate come luogo ideale per avviare un'attività di ricezione turistica.
 
 Possiamo verificare questa ipotesi usando dei dati? Dimostrare effettivamente un nesso causale fra i due fenomeni non è un compito semplice, ma possiamo almeno verificare se ci sia una qualche correlazione tra loro. Partiamo dal considerare due fonti di dati molto importanti:
 
@@ -60,8 +60,8 @@ Andiamo a vedere adesso in dettaglio come correlano le nostre quatità. Per ogni
 
 Tutte le quantità sono correlate tra loro, in particolare:
 
-- Pannelli nella prima riga: la presenza di nuovi Airbnb è correlata con tutte le quantità, ma le correlazioni più intense sono con la densità di popolazione (r=0.74). Probabilmente questo valore non è molto più vicino ad 1 per effetto del centro storico, leggermente meno abitato delle aree limitrofe ma con più nuove aperture di AirBnb.
--Pannelli nella seconda riga: ci sono correlazioni deboli tra tutte le coppie rimanenti. Particolarmente interessante è la correlazione debole tra popolazione e presenza di fermate del tram: abbiamo infatti visto che, sebbene le fermate del tram siano presenti solo con aree con molta popolazione, molte di queste nella parte est della città non hanno ancora fermate, ma saranno servite in [futuri sviluppi della linea](https://it.wikipedia.org/wiki/Rete_tranviaria_di_Firenze#In_costruzione).
+- **Pannelli nella prima riga**: la presenza di nuovi Airbnb è correlata con tutte le quantità, ma le correlazioni più intense sono con la densità di popolazione (r=0.74). Probabilmente questo valore non è molto più vicino ad 1 per effetto del centro storico, leggermente meno abitato delle aree limitrofe ma con più nuove aperture di AirBnb.
+- **Pannelli nella seconda riga**: ci sono correlazioni deboli tra tutte le coppie rimanenti. Particolarmente interessante è la correlazione debole tra popolazione e presenza di fermate del tram: abbiamo infatti visto che, sebbene le fermate del tram siano presenti solo con aree con molta popolazione, molte di queste nella parte est della città non hanno ancora fermate, ma saranno servite in [futuri sviluppi della linea](https://it.wikipedia.org/wiki/Rete_tranviaria_di_Firenze#In_costruzione).
 
 Si potrebbe quindi affermare che le fermate del tram siano degli attrattori per le nuove aperture. Quanto è robusta però la correlazione che abbiamo trovato se consideriamo anche la popolazione e le attrazioni turistiche?
 
