@@ -47,14 +47,14 @@ pagination:
 	<p>
     {% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
+			<a class="newer-posts" href="{{ paginator.previous_page_path | relative_url }}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x"></i>
           <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
         </span>
       </a>
 			{% else %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+			<a class="newer-posts" href="{{ paginator.next_page_path | relative_url }}">
 				<span class="fa-stack fa-lg">
 					<i class="fa fa-square fa-stack-2x"></i>
 					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
@@ -69,7 +69,7 @@ pagination:
 		{% endif %}
 		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 		{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+		<a class="newer-posts" href="{{ paginator.next_page_path | relative_url }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-square fa-stack-2x"></i>
         <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
