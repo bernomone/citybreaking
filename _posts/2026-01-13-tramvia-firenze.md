@@ -9,7 +9,7 @@ excerpt: Relazione tra la presenza di infrastrutture di trasporto pubblico e nuo
 ---
 
 La rinnovata attenzione alla sostenibilità dei trasporti ha fatto sì che a Firenze, in tempi relativamente recenti, sia stato ripristinato [un servizio](https://it.wikipedia.org/wiki/Rete_tranviaria_di_Firenze_(1879-1958)) che nel 1800 era esteso anche alle [aree extraurbane](https://it.wikipedia.org/wiki/File:Firenze_-_mappa_rete_filoviaria_-_1958.svg): il tram.
-La rete tramviaria di Firenze fu infatti inizialmente realizzata verso la fine del dicianovesimo secolo, pesantemente danneggiata durante la guerra, fu poi ripristinata completamente negli anni 50 del secolo scorso. Mancati ammodernamenti resero però il servizio inadeguato e obsoleto, tanto che nel 1958 il servizio fu soppresso definitivamente. 
+La rete tramviaria di Firenze fu infatti inizialmente realizzata verso la fine del diciannovesimo secolo, pesantemente danneggiata durante la guerra, fu poi ripristinata completamente negli anni 50 del secolo scorso. Mancati ammodernamenti resero però il servizio inadeguato e obsoleto, tanto che nel 1958 il servizio fu soppresso definitivamente. 
 
 Nei primi anni 2000, il comune di Firenze decise di iniziare a ripristinare il servizio, come alternativa alla mobilità su gomma, e la prima linea della nuova rete entrò in servizio nel 2010. Non mancarono le opposizioni alla sua realizzazione: nel 2008 fu indetto un [referendum](https://www1.interno.gov.it/mininterno/export/sites/default/it/sezioni/sala_stampa/notizie/enti_locali/0835_2008_02_18_Referendum_tramvia_Firenze.html_40687498.html) per chiedere ai cittadini se fossero favorevoli o contrari alla realizzazione della prima linea di tram in centro e i NO vinsero. 
 
